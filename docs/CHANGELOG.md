@@ -1,5 +1,12 @@
 # @keystone-6/website
 
+## 0.1.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @keystone-6/fields-document@7.0.0
+
 ## 0.1.0
 
 ### Minor Changes
